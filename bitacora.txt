@@ -1,0 +1,23 @@
+Los primeros dos pasos transcurren sin ningun problema debido a que son comandos basicos que no tienen ningun grado de complejidad (mkdir, touch). 
+
+Para el tercer paso tampoco ocurre ningun contratiempo ya que se actualiza la base de datos sin ningun error con comandos tales como (apt update y apt udgrade)
+
+Para el cuarto paso, ya estaba instalado. Solo fue cuestion de ejecutarlo.
+
+Os: Sistema operativo.
+Host: EL pc fisico.
+Kernel:Nucleo que conecta hardware y software.
+Uptime: Tiempo que ha dura en funcion el programa en su totalidad.
+Packages: cantidad de paquetes para el programa.
+Shell:Programa que interpreta lo que escribo.
+Resolution: calidad visual que podria verse en el monitor.
+DE: Version del iso para la maquina virtual.
+WM:Controla las ventanas.
+WM Theme:Cambia la apareciencia de las ventanas.
+Theme:Es el tema general de las apps.
+Icons:Cambia los iconos.
+Terminal:Es donde se usa la shell.
+CPU:Procesador del pc.
+GPU:Grafica del pc.
+GPU:Especificaciones de la grafica.
+Memory:Memoria RAM.
